@@ -1,0 +1,1 @@
+run_id,experiment,model,threshold_percent,round,precision,recall,map50,map50_95,student_checkpoint_id,teacher_checkpoint_id,original_log_uri

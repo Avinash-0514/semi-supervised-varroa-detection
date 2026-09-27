@@ -1,0 +1,9 @@
+experiment,model,best_mean_teacher_map50,threshold_percent,source
+1,yolov8,0.637,25,journal draft Table 5
+1,yolov11,0.661,25,journal draft Table 5
+2,yolov8,0.654,25,journal draft Table 5
+2,yolov11,0.658,25,journal draft Table 5
+3,yolov8,0.691,25,journal draft Table 5
+3,yolov11,0.694,25,journal draft Table 5
+4,yolov8,0.701,25,journal draft Table 5
+4,yolov11,0.686,25,journal draft Table 5

@@ -1,0 +1,8 @@
+threshold_percent,threshold_fraction
+5,0.05
+10,0.10
+15,0.15
+20,0.20
+25,0.25
+50,0.50
+65,0.65

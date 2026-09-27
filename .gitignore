@@ -1,0 +1,22 @@
+# Original images, extracted video frames, and video files are managed outside Git.
+data/raw/
+data/frames/
+data/videos/
+*.mp4
+*.mov
+*.avi
+
+# Model checkpoints and training output.
+*.pt
+*.pth
+*.onnx
+runs/
+wandb/
+
+# Local environments and secrets.
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store

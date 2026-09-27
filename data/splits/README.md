@@ -1,0 +1,1 @@
+The five CSV files here are header-only templates. Fill them with stable image IDs and their original filenames. The 1321-image training set is the union of `train_915.csv` and `train_additional_406.csv`. Keep every overlap and source decision auditable. Validation/test IDs must reflect the study's actual evaluation sets.

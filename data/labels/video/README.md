@@ -1,0 +1,1 @@
+`video_boxes.csv` is an empty template for manually annotated frames. Every frame, including a zero-box frame, should appear in `data/manifests/video_frames.csv`. Keep model predictions in a separate file, not among human ground-truth annotations.

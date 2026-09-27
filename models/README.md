@@ -1,0 +1,1 @@
+Complete `checkpoints.csv` with exact model weight location, checksum, training configuration, and the baseline/teacher/student role. Large weight files are ignored by Git. Only fill a paper-result row when its actual checkpoint has been identified.

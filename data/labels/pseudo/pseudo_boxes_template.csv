@@ -1,0 +1,1 @@
+image_id,experiment,model,threshold,checkpoint_sha256,class_id,x_center_norm,y_center_norm,width_norm,height_norm,prediction_confidence

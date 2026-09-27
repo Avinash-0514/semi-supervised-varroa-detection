@@ -1,0 +1,9 @@
+experiment,model,labelled_images,additional_labelled_images,input_size,epochs,batch_size
+1,yolov8,915,0,320,50,8
+1,yolov11,915,0,320,50,8
+2,yolov8,1321,406,320,50,8
+2,yolov11,1321,406,320,50,8
+3,yolov8,915,0,416,50,8
+3,yolov11,915,0,416,50,8
+4,yolov8,1321,406,416,50,8
+4,yolov11,1321,406,416,50,8

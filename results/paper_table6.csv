@@ -1,0 +1,9 @@
+scenario,model,labelled_images,precision,recall,map50,map50_95,paper_stated_threshold_percent,verified_checkpoint_id,source
+Easy,yolov8,915,0.593,0.686,0.625,0.244,25,,journal draft Table 6
+Easy,yolov8,1321,0.747,0.791,0.77,0.243,25,,journal draft Table 6
+Easy,yolov11,915,0.936,0.811,0.88,0.329,25,,journal draft Table 6
+Easy,yolov11,1321,0.96,0.843,0.925,0.359,25,,journal draft Table 6
+Medium,yolov8,915,0.708,0.556,0.509,0.103,25,,journal draft Table 6
+Medium,yolov8,1321,0.659,0.482,0.496,0.133,25,,journal draft Table 6
+Medium,yolov11,915,0.611,0.556,0.506,0.119,25,,journal draft Table 6
+Medium,yolov11,1321,0.88,0.593,0.713,0.203,25,,journal draft Table 6

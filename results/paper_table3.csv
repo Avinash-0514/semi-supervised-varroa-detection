@@ -1,0 +1,9 @@
+experiment,model,baseline_map50,best_ssl_map50,best_ssl_threshold_percent,gain_reported,source
+1,yolov8,0.585,0.665,10,+13.68%,journal draft Table 3
+1,yolov11,0.593,0.664,20,+11.97%,journal draft Table 3
+2,yolov8,0.655,0.676,25,+3.21%,journal draft Table 3
+2,yolov11,0.616,0.654,25,+6.17%,journal draft Table 3
+3,yolov8,0.674,0.686,25,+1.78%,journal draft Table 3
+3,yolov11,0.672,0.696,25,+3.57%,journal draft Table 3
+4,yolov8,0.673,0.704,25,+4.61%,journal draft Table 3
+4,yolov11,0.667,0.692,10,+3.75%,journal draft Table 3

@@ -1,0 +1,1 @@
+`paper_table*.csv` transcribe values explicitly reported by the draft, for comparison against your original logs. `threshold_metrics.csv` and `mean_teacher_round_metrics.csv` are intentionally header-only and need individual-run measurements from saved experiment output. A paper claim is not a verified reproduction.

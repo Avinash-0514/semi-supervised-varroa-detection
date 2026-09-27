@@ -1,0 +1,9 @@
+experiment,model,confidence_threshold,rounds_reported
+1,yolov8,0.25,2
+1,yolov11,0.25,2
+2,yolov8,0.25,2
+2,yolov11,0.25,2
+3,yolov8,0.25,2
+3,yolov11,0.25,2
+4,yolov8,0.25,2
+4,yolov11,0.25,2
