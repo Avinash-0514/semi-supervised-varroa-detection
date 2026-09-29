@@ -1,0 +1,7 @@
+path: C:\Users\User\Desktop\Thesis\Src_Yolo\Video Validation_Test\V2_Medium
+
+train: images
+val: images
+
+names:
+  0: mite

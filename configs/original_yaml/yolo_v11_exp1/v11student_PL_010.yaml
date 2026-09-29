@@ -1,0 +1,7 @@
+path: C:/Users/User/Desktop/Thesis/Src_Yolo/SSL/YOLO_11
+train: student_yolo_v11_conf010/images/train
+val: student_yolo_v11_conf010/images/val
+
+nc: 1
+names:
+  - mite

@@ -1,0 +1,7 @@
+path: C:\Users\User\Desktop\Thesis\Src_Yolo\SSL\YOLO_08\Ablation_SSL\Conf_50\AB_RAW\AB_STUDENT
+train: V8_Student_AB_10/images/train
+val: V8_Student_AB_10/images/val
+
+nc: 1
+names:
+  - mite
